@@ -3,7 +3,7 @@
 
 - 🧑🏽‍🍳 I’m currently working on [A new version of my project Scrapify](https://scrapify-v1.netlify.app/)
 
-- 🌱 I’m currently learning **TypeScript, Bootstrap, Tailwind and MongoDB**
+- 🌱 I’m currently learning **TypeScript, Tailwind and MongoDB**
 
 - 🤝 I’m looking for help with **building my design skills**
 
